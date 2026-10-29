@@ -4,6 +4,14 @@
   "private": true,
   "description": "AllStateFundPros Vapi Dashboard — call outcomes, AI vs human pickup, verbatim customer quotes.",
   "scripts": {
-    "dev": "vercel dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "15.1.6",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
   }
 }
