@@ -1,0 +1,9 @@
+{
+  "name": "allstatefundpros-vapi-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AllStateFundPros Vapi Dashboard — call outcomes, AI vs human pickup, verbatim customer quotes.",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
